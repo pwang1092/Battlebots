@@ -8,7 +8,7 @@ const About = () => {
     return (
         <section id='about'>
             <span className='title'>
-                About 'SC ARC
+                About ARC
             </span>
             <span className='description'> 
                 We are a group of enthusiastic undergraduate engineering students that creates and destroys robots!
@@ -21,7 +21,8 @@ const About = () => {
                     <img src={trojan} alt="trojan" className="barImage"></img>
                     <div className="barText">
                         <h2>Who we are</h2>
-                        <p></p>
+                        <p>We are the only combat robotics team at USC. Our team includes 
+                            a variety of majors including ME, CECS, and business.</p>
                     </div>
                 </div>
                 <div className="bar">
